@@ -1,2 +1,1 @@
-# UDP-FL
-UDP-FL
+# DifferentialPrivacy
